@@ -1,0 +1,6 @@
+PIL
+numpy
+cryptodomex
+cryptodome
+cv2
+matplotlib
